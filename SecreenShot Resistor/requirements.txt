@@ -1,0 +1,7 @@
+tkinter
+pynput
+psutil
+plyer
+# Optional for tray functionality
+pystray
+Pillow
