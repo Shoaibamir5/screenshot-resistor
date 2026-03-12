@@ -107,15 +107,6 @@ Screenshot-Resistor/
 
 ---
 
-## ⚠️ Note
-
-This application **detects** screenshot attempts and provides **visual alerts**, but cannot truly prevent OS-level screenshots from being captured. It serves as a:
-- Privacy awareness tool
-- Deterrent against unauthorized screenshots
-- Alert system for sensitive content protection
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -151,6 +142,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ### Detection/Protection
 ![Protection](Screenshots/Protection.png)
+
 
 
 
