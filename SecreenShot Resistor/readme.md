@@ -146,11 +146,12 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Demo
 
 ### Application Interface
-![Interface](screenshots/Interface.png)
+![Interface](Screenshots/Interface.png)
 
 
 ### Detection/Protection
-![Protection](screenshots/Protection.png)
+![Protection](Screenshots/Protection.png)
+
 
 
 
